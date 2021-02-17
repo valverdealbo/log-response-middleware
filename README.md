@@ -23,9 +23,12 @@ import winston from 'winston';
 import { createLogResponseMiddleware } from '@valbo/log-response-middleware';
 
 app.use(createLogResponseMiddleware(winston));
+```
 
-// log message after the response is sent
-// {"origin":"::1","user":"admin","request":{"method":"GET","url":"/login"},"response":{"status":200,"length":"226","ms":"105.558"}}
+Logs after the response is sent:
+
+```json
+{"origin":"::1","user":"admin","request":{"method":"GET","url":"/login"},"response":{"status":200,"length":"226","ms":"105.558"}}
 ```
 
 This package also exports a **LogMessage** interface which describes the format of the object that is logged, if you need it:

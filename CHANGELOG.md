@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/valverdealbo/log-response-middleware/compare/v1.0.1...v1.0.2) (2021-02-19)
+
+
+### Bug Fixes
+
+* update license to MIT ([e708c03](https://github.com/valverdealbo/log-response-middleware/commit/e708c03b8baf005f73663b7c44e23f23e06ef781))
+
 ## [1.0.1](https://github.com/valverdealbo/log-response-middleware/compare/v1.0.0...v1.0.1) (2021-02-17)
 
 

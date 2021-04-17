@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/valverdealbo/log-response-middleware/compare/v1.0.2...v1.0.3) (2021-04-17)
+
+
+### Bug Fixes
+
+* update dependencies and tools configurations ([38c8e86](https://github.com/valverdealbo/log-response-middleware/commit/38c8e86981260d1cffd4dc2a6292a769d13aac0b))
+
 ## [1.0.2](https://github.com/valverdealbo/log-response-middleware/compare/v1.0.1...v1.0.2) (2021-02-19)
 
 

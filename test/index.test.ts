@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import events from 'events';
 import { Logger } from 'winston';
-import { createLogResponseMiddleware } from '.';
+import { createLogResponseMiddleware } from '../src';
 
 describe('createLogResponseMiddleware()', () => {
   const info = jest.fn();
